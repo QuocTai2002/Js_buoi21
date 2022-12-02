@@ -147,7 +147,9 @@ i, span {
     display: none;
     font-size: 1.8em;
 }
-
+.form-group .sp-thongbao{
+    display: block;
+}
 #sidebar ul.components {
     padding: 20px 0;
     border-bottom: 1px solid #47748b;
